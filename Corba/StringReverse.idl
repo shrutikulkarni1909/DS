@@ -1,0 +1,3 @@
+interface StringReverse{
+  string reverseString(in string str);
+};
